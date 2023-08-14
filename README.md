@@ -32,3 +32,7 @@ agregar dependencias
 ```
 cargo add <package_names>
 ```
+correr test
+```
+cargo test
+```
